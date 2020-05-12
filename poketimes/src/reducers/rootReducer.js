@@ -1,5 +1,10 @@
 const initState = {
-  posts: []
+  posts: [
+    {id: '1', title: 'Squirtle Laid an egg', body: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae aspernatur harum adipisci soluta aliquid! Natus molestiae porro ea quia laudantium in dolores necessitatibus, eveniet illum quam quibusdam sint? Vel, ipsa!'},
+    {id: '2', title: 'Charmander Laid an Egg', body: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae aspernatur harum adipisci soluta aliquid! Natus molestiae porro ea quia laudantium in dolores necessitatibus, eveniet illum quam quibusdam sint? Vel, ipsa!'},
+    {id: '3', title: 'a Helix fossile was Found', body: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae aspernatur harum adipisci soluta aliquid! Natus molestiae porro ea quia laudantium in dolores necessitatibus, eveniet illum quam quibusdam sint? Vel, ipsa!'},
+
+  ]
 }
 
 
